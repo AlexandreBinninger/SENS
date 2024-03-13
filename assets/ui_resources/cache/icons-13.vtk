@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<VTKFile type="ImageData" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <ImageData WholeExtent="0 161 0 48 0 0" Origin="0 0 0" Spacing="1 1 1" Direction="1 0 0 0 1 0 0 0 1">
+    <Piece Extent="0 161 0 48 0 0"                                                    >
+      <PointData Scalars="ImageScalars">
+        <DataArray type="UInt8" Name="ImageScalars" NumberOfComponents="4" format="appended" RangeMin="173.62315514"         RangeMax="441.67295593"         offset="0"                   >
+          <InformationKey name="L2_NORM_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              173.62315514
+            </Value>
+            <Value index="1">
+              441.67295593
+            </Value>
+          </InformationKey>
+        </DataArray>
+      </PointData>
+      <CellData>
+      </CellData>
+    </Piece>
+  </ImageData>
+  <AppendedData encoding="base64">
+   _AQAAAACAAAAIfAAAiwAAAA==eJzt0kENg0AUQEEkVQJStk4qDWcfEUvSRzKHcTAzcwwAAAAAr7XW94RNnwceDmy6PCTAQwo8pMBDCjykwEMKPKTAQwo8pMBDCjykwEMKPKTAQwo8pMBDCjykwEMKPKTAQwo8pMBDCjykwEMKPKTAQwo8pMBDCp54+INNa/chAAAAAAAA8D83AJetig==
+  </AppendedData>
+</VTKFile>
