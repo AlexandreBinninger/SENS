@@ -1,0 +1,9 @@
+@article{
+    Binninger:SENS:2024,
+    author = {Alexandre Binninger and Amir Hertz and Olga Sorkine-Hornung and Daniel Cohen-Or and Raja Giryes},
+    title = {{SENS}: Part-Aware Sketch-based Implicit Neural Shape Modeling},
+    journal = {Computer Graphics Forum (Proceedings of EUROGRAPHICS 2024)},
+    volume = {43},
+    number = {2},
+    year = {2024},
+}
