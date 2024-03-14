@@ -1,10 +1,11 @@
 # SENS: Part-Aware Sketch-based Implicit Neural Shape Modeling
+![SENS teaser](docs/resources/teaser.png)
 
 Official implementation of our paper, published at Eurographics 2024.
 
 - DOI: 10.1111/cgf.15015
 - arxiv: https://arxiv.org/abs/2306.06088
-- website: 
+- website: https://alexandrebinninger.github.io/SENS
 
 ## Pre-trained models
 
